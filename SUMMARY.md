@@ -7,4 +7,5 @@
            * [Literal Constants](literal_constants.md)
            * [Representation](representation.md)
            * [Explicit Conversions](explicit_conversions.md)
+           * Operations
 
