@@ -8,3 +8,8 @@
 -Binaries: 0b00001011
 
 *Kotlin不支持8进制数值*
+
+-Doubles: 123.5 , 123.5e10  
+-Floats: 123.5f/123.5F  
+
+
