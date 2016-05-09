@@ -6,3 +6,7 @@
 val b: Byte = 1 // OK, literals are checked statically
 val i: Int = b // ERROR
   ```
+我们可以显示的转换来扩展数字类型
+```kotlin
+val i: Int = b.toInt() // OK: explicitly widened
+```
