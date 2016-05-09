@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Basic](chapter1.md)
-   * Basic Types
+   * [Basic Types](basic_types.md)
 
