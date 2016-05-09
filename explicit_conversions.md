@@ -10,3 +10,12 @@ val i: Int = b // ERROR
 ```kotlin
 val i: Int = b.toInt() // OK: explicitly widened
 ```
+每个数字类新都有如下的转换：
+
+- toByte(): Byte
+- toShort(): Short
+- toInt(): Int
+- toLong(): Long
+- toFloat(): Float
+- toDouble(): Double
+- toChar(): Char
