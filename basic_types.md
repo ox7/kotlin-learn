@@ -1,2 +1,2 @@
-# Basic Types
+# 基础类型
 
