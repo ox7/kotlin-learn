@@ -6,4 +6,5 @@
        * [Numbers](numbers.md)
            * [Literal Constants](literal_constants.md)
            * [Representation](representation.md)
+           * Explicit Conversions
 
