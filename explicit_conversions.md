@@ -1,2 +1,3 @@
-# Explicit Conversions
+# Explicit Conversions 类型转换
 
+  **较小的数值类型不能隐式的转换成较大的数值类型**，这意味著，在没有显示转换情况下，我们不能分配一个```Byte```类型的值给```Int```类型的变量。
