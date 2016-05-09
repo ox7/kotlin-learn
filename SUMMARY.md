@@ -4,5 +4,5 @@
 * [Basic](chapter1.md)
    * [Basic Types](basic_types.md)
        * [Numbers](numbers.md)
-           * Literal Constants
+           * [Literal Constants](literal_constants.md)
 
