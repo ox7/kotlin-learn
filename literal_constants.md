@@ -1,4 +1,4 @@
-# Literal Constants 字面值常量
+# Literal Constants 常量
 
 整数型有如下几种字面值常量：
 
