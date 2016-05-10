@@ -9,5 +9,5 @@
            * [Explicit Conversions](explicit_conversions.md)
            * [Operations](operations.md)
        * [Characters](characters.md)
-       * Booleans
+       * [Booleans](booleans.md)
 
