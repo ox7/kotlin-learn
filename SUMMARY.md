@@ -8,4 +8,5 @@
            * [Representation](representation.md)
            * [Explicit Conversions](explicit_conversions.md)
            * [Operations](operations.md)
+       * Characters
 
